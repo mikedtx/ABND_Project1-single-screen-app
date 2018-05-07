@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Mike\'s Meat Shop</string>
-    <string name="slogan">No one can beat our meat!</string>
-    <string name="cuts">USDA Prime NY Strip ~ Fillet Mignon ~ Porter House T-bone ~ Bone-in Ribeye ~ Burger </string>
-    <string name="address">4210 West Schrimsher Lane Soutwest\nHuntsville, Al 35805</string>
-    <string name="phone_number">(256)489-0874</string>
-
-</resources>
